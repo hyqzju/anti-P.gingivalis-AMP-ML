@@ -1,0 +1,6 @@
+﻿Feature,N_used,Recommended_lower_Q25,Recommended_upper_Q75,Median,Min_positive_SHAP,Max_positive_SHAP,Mean_SHAP_in_subset,Interpretation
+cLogP,20,-5.768475,-1.4346,-3.56015,-14.2437,0.627,0.16897139298593605,Class=1 and positive SHAP contribution
+Net_charge,20,5.75,10.0,7.0,4.0,11.0,0.11740448779827432,Class=1 and positive SHAP contribution
+Length,27,13.0,28.5,18.0,12.0,45.0,0.09081027535262642,Class=1 and positive SHAP contribution
+Cationic_comp,22,0.2902,0.367075,0.3333,0.1379,0.6667,0.05765455759607673,Class=1 and positive SHAP contribution
+Hydrophobic_comp,25,0.3824,0.5833,0.5,0.3143,0.6667,0.07412735194858582,Class=1 and positive SHAP contribution
