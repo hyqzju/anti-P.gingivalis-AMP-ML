@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "SHAP-AMP Sequence Generator"
+message: "If you use this software, please cite the associated article or this repository."
+type: software
+authors:
+  - family-names: "Author"
+    given-names: "Your Name"
+repository-code: "https://github.com/your-username/shap-amp-sequence-generator"
+license: "NOASSERTION"

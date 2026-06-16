@@ -1,0 +1,3 @@
+# RDKit is best installed from conda-forge:
+# conda install -c conda-forge rdkit
+rdkit
