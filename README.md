@@ -1,8 +1,6 @@
 [README_full_github.md](https://github.com/user-attachments/files/29432967/README_full_github.md)
 # Antimicrobial Peptide Design Priciples for *P. gingivalis*
 
-This repository contains the main Python scripts used for a computational machine-learning workflow to identify and interpret antimicrobial peptide candidates against *Porphyromonas gingivalis*.
-
 The workflow includes model performance evaluation, random forest-based SHAP interpretation, and CAMP prediction probability comparison. The analyses are intended to support manuscript preparation, peer review, and research archiving.
 
 This repository does not include wet-lab experimental validation data. The results should be interpreted as computational predictions and model-based analyses.
