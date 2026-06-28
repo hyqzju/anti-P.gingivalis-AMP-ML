@@ -1,5 +1,5 @@
 [README_full_github.md](https://github.com/user-attachments/files/29432967/README_full_github.md)
-# AI-Guided Antimicrobial Peptide Design for *P. gingivalis*
+# Antimicrobial Peptide Design Priciples for *P. gingivalis*
 
 This repository contains the main Python scripts used for a computational machine-learning workflow to identify and interpret antimicrobial peptide candidates against *Porphyromonas gingivalis*.
 
@@ -95,7 +95,7 @@ python code/model_performance.py
 python code/shap_interpretation.py
 ```
 
-For the CAMP probability comparison workflow:
+For the CAMP-R4 probability comparison workflow:
 
 ```bash
 python code/camp_probability_comparison.py \
@@ -120,6 +120,3 @@ python code/camp_probability_comparison.py \
 
 If you use or adapt this repository, please cite the associated manuscript once available.
 
-## License
-
-Please add a license file if you intend to make the code reusable by others. Common choices include MIT, Apache-2.0, or CC BY 4.0 depending on your sharing preference.
